@@ -1,0 +1,9 @@
+Enter each value on the line below:
+
+Twilio Sid:
+
+Twilio Token:
+
+Twilio Phone Number:
+
+------------------------------EOF
